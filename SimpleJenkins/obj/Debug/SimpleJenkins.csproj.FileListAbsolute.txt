@@ -1,0 +1,5 @@
+D:\Dev nvisionit\SimpleJenkins\SimpleJenkins\bin\Debug\SimpleJenkins.dll
+D:\Dev nvisionit\SimpleJenkins\SimpleJenkins\bin\Debug\SimpleJenkins.pdb
+D:\Dev nvisionit\SimpleJenkins\SimpleJenkins\obj\Debug\SimpleJenkins.csprojResolveAssemblyReference.cache
+D:\Dev nvisionit\SimpleJenkins\SimpleJenkins\obj\Debug\SimpleJenkins.dll
+D:\Dev nvisionit\SimpleJenkins\SimpleJenkins\obj\Debug\SimpleJenkins.pdb
